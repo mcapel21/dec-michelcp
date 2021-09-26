@@ -4,7 +4,6 @@ document.getElementById("boto6").addEventListener("click", function () {
   i++;
 });
 
-
 /*  *** NO HE SAPIGUT ENTENDRE-HO MOLT BÉ PER TANT NO VOLIA FER UN EXEMPLE SENSE TINDRE-HO CLAR ***
 let miPrimeraPromise = new Promise((resolt, rebutjat) => {
   // Llamamos a resolve(...) cuando lo que estabamos haciendo finaliza con éxito, y reject(...) cuando falla.
@@ -27,4 +26,4 @@ miPrimeraPromise
       console.log("No ha pogut ser.. " + deniedMessage);
     }
   );
-/*
+*/
